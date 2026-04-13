@@ -71,4 +71,4 @@ npm run build
 GentleFlow is designed with privacy-first principles. In a production environment, all data is encrypted via end-to-end protocols.
 
 ---
-*Created by Antigravity AI for jayzerg. 2026.*
+
